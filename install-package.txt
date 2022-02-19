@@ -1,0 +1,10 @@
+step1 : npm init
+step2 : npm install express --save
+*config*
+step1 : https://www.robinwieruch.de/node-js-express-tutorial/
+step2 : https://www.robinwieruch.de/minimal-node-js-babel-setup/
+database Connection : https://www.npmjs.com/package/sequelize
+sequeize docs : https://sequelize.org/
+confirguaration json : https://sequelize.org/master/manual/migrations.html
+
+req config : https://stackoverflow.com/questions/24543847/req-body-empty-on-posts
