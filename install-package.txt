@@ -8,3 +8,5 @@ sequeize docs : https://sequelize.org/
 confirguaration json : https://sequelize.org/master/manual/migrations.html
 
 req config : https://stackoverflow.com/questions/24543847/req-body-empty-on-posts
+
+generate secret : require('crypto').randomBytes(64).toString('hex')
